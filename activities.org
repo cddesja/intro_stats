@@ -1,0 +1,37 @@
+* Activities for elementary statistics students
+
+** Gettysburg Address
++ [[https://docs.google.com/document/d/1sGD7Acuen_1CUTxgiBq5viC1l5iZ2HkJmoweIk752R0/edit?usp=sharing][Google Doc Activity]]
++ *Duration:* 30 minutes
++ *Purpose*: Teach students about bias, simple random samples
++ *Description*: Adapted from [[http://www.math.kent.edu/~reed/Instructors/MATH%252010041/Population%2520vs%2520Sample_Gettysburg%2520Address.pdf][this activity]].
+*** Change for next time? 
+**** Incorporate some of the ideas [[http://pages.pomona.edu/~jsh04747/courses/math58/gettysburg.pdf][here]].
+
+** Sampling and Study Design
++ [[https://docs.google.com/document/d/1-EyruDC1Zks0ls5bOiRAGgQ_KI1e3p6AMVPEwv1mNyM/edit?usp=sharing][Google Doc Activity]]
++ *Duration*: 10 - 15 minutes per abstract
++ *Description*: Idea taken from Laura Le.
++ _Changes for next time_?
+*** TODO Add newer abstracts based on student majors and relevant issues.
+*** TODO Remove NCAA abstract and climate change meat eaters.
+
+
+** Circadian Preferences of Students
++ [[https://tinyurl.com/vvuzpfo][Google Doc Activity]]
++ *Duration*: 40 minutes
++ *Purpose*: Get students working with software (/StatCrunch/) and experience analyzing categorical data.
+
+** Classifying Histograms
++ [[https://tinyurl.com/qld8zh7][Google Doc Activity]]
++ *Duration*: 15 minutes
++ *Purpose*: Experience describing histograms. [[https://www.causeweb.org/cause/archive/repository/StarLibrary/activities/garfield2002/][Original inspiration.]]
++ _Change for next time?_
+*** TODO Add more histograms
+*** TODO Make histograms reflect real variables and ask students to match them histogram to variables!
+
+** Natural Selection House Sparrows
++ [[https://docs.google.com/document/d/1YW1AX0dcarD__T6TyBE-WavPRPo6ZZFjcUtt-mzEuuI/edit?usp=sharing][Google Doc Activity]]
++ *Duration*: 30 minutes
++ *Purpose*: Experience creating and interpreting boxplots
++ *Description*: Adapted from Rossman & Chance "Workshop Statistics".
