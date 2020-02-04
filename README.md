@@ -6,7 +6,8 @@ Activites, datasets, code, and other material for teaching introductory statisti
 + See the **activities.org** file
 
 ## Datasets
-[*StatCrunch* data for Natural Selection in House Sparrows](https://www.statcrunch.com/app/index.php?dataid=3330780)
-[*StatCrunch* data for Presidential Approval Activity](https://www.statcrunch.com/app/index.php?dataid=3334168)
++ [*StatCrunch* data for Circadian Preferences of College Students](https://www.statcrunch.com/app/index.php?dataid=3314945)
++ [*StatCrunch* data for Natural Selection in House Sparrows](https://www.statcrunch.com/app/index.php?dataid=3330780)
++ [*StatCrunch* data for Presidential Approval Activity](https://www.statcrunch.com/app/index.php?dataid=3334168)
 
 
