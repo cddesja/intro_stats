@@ -35,3 +35,14 @@
 + *Duration*: 30 minutes
 + *Purpose*: Experience creating and interpreting boxplots
 + *Description*: Adapted from Rossman & Chance "Workshop Statistics".
+
+** Happiness!
++ [[https://docs.google.com/document/d/1cSdTmCFJfiacxHNfKn1D81FA4w_jQRdoRPJ2XbTKnH0/edit?usp=sharing][Google Doc Activity]]
++ *Duration*: 20 - 30 minutes
++ *Purpose*: Understand scatterplots and correlations.
++ *Description*: Adapted from an activity by Laura Le at the University of Minnesota.
+
+** Presidential Approval Rating and Reelection
++ [[https://docs.google.com/document/d/1_4AQLhIjffRCzeO8mjdm9IGh73_tzWGKHRnBHvoqCK8/edit?usp=sharing][Google Doc Activity]]
++ *Duration*: 40 minutes
++ *Purpose*: Performing and interpreting simple linear regression.
