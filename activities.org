@@ -46,3 +46,16 @@
 + [[https://docs.google.com/document/d/1_4AQLhIjffRCzeO8mjdm9IGh73_tzWGKHRnBHvoqCK8/edit?usp=sharing][Google Doc Activity]]
 + *Duration*: 40 minutes
 + *Purpose*: Performing and interpreting simple linear regression.
+
+** Variability in Pennies
++ [[https://docs.google.com/document/d/1H0kFoIlNjB5ADFGyx3uIent0ZyefVNq6TzCJt5QgsSo/edit?usp=sharing][Google Doc Activity]]
++ *Duration*: 30 - 40 minutes
++ *Purpose*: Introduce sampling distributions and sampling distriubtion for sample proportions.
++ _Change for next time_?
+*** TODO Clean up the last two questions, they are too ambiguous
+*** Is this an activity that should be substantially shortened and only be a physical simulation?  :bug:
+** Flu Shots in Kids in 2018
++ [[https://docs.google.com/document/d/1tNNr-sfMskQIhksvV5rdd4_COwQ8IqiaVNXgFTlZwdQ/edit][Google Doc Activity]]
++ *Duration*: 40 minutes
++ *Purpose*: Introduce sampling distribution for sample proportions and confidence intervals.
++ *Description*: Adapted from an activity by Laura Le at the University of Minnesota.
