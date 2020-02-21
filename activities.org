@@ -54,8 +54,15 @@
 + _Change for next time_?
 *** TODO Clean up the last two questions, they are too ambiguous
 *** Is this an activity that should be substantially shortened and only be a physical simulation?  :bug:
+
 ** Flu Shots in Kids in 2018
 + [[https://docs.google.com/document/d/1tNNr-sfMskQIhksvV5rdd4_COwQ8IqiaVNXgFTlZwdQ/edit][Google Doc Activity]]
 + *Duration*: 40 minutes
 + *Purpose*: Introduce sampling distribution for sample proportions and confidence intervals.
++ *Description*: Adapted from an activity by Laura Le at the University of Minnesota.
+
+** Rich Baseball Players
++ [[https://docs.google.com/document/d/1JO6K4W4ICPK8SU8KqskkDyMuk4zDksdAzziVhPK6JGE/edit][Google Doc Activity]]
++ *Duration*: 40 minutes
++ *Purpose*: Introduce sampling distribution for sample means and confidence intervals.
 + *Description*: Adapted from an activity by Laura Le at the University of Minnesota.
